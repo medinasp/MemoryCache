@@ -1,2 +1,2 @@
 # MemoryCache
-Exemplo uso do Cache de memria .net
+Exemplo uso do Cache de memoria .net
