@@ -42,7 +42,6 @@ namespace MemoryCache.Controllers
                         PropertyNameCaseInsensitive = true
                     };
 
-                    // Deserialize the JSON into List<CountryInfo>
                     countries = JsonSerializer.Deserialize<List<CountryViewModel>>(responseData, options);
 
                     // Store in memory cache
